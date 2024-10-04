@@ -61,6 +61,3 @@ Planned updates for the dashboard include:
 - **Benchmarking**: Comparing attrition rates across industry standards to provide a broader perspective.
 - **Interactive Filters**: Allowing users to filter data by specific departments or teams for more granular insights.
 
----
-
-This explanation highlights the **technical implementation**, **business insights**, and potential **future improvements**, making it a strong addition to your GitHub portfolio.
