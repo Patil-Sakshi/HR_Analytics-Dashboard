@@ -1,6 +1,10 @@
 
 # HR Analytics Dashboard 📊
 
+
+![HR_Analytics_Dashboard](https://github.com/user-attachments/assets/6c9364a2-9e21-47c9-ad26-ccf7024ffcb6)
+
+
 This project is an **HR Analytics Dashboard** built to analyze and visualize employee attrition data. It offers a comprehensive view of employee turnover, allowing HR teams and management to make data-driven decisions to improve retention strategies.
 
 ## Key Features
